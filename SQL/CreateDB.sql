@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS youtubemini;
+CREATE DATABASE youtubemini;
